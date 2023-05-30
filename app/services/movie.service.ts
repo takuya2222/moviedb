@@ -24,4 +24,3 @@ export const searchMovies = async (query: string) => {
     return [];
   }
 };
-// 5dae93d2ae7df9c19229abba9896c94a
